@@ -26,11 +26,14 @@ My Changes:
             }
         });
         });
+    
+    url dev link:  https://rawgit.com/mrarkansas870/slack-themes/master/black.css
+    url prod link: https://cdn.rawgit.com/mrarkansas870/slack-themes/master/black.css
 */
 
 body {
-    background: #222;
-    color: #e6e6e6;
+    background: rgb(255, 0, 0);
+    color: #ffffff;
 }
 
 a {
